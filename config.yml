@@ -1,0 +1,5 @@
+locustfile: tests/
+users: 12
+spawn-rate: 24
+headless: true
+run-time: 15s
